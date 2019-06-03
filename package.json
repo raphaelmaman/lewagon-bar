@@ -1,0 +1,10 @@
+{
+  "name": "lewagon-bar",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.6"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.5.1"
+  }
+}
